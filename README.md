@@ -3,7 +3,7 @@ This is a demo for Git and GIthub.
 
 
 # Teacher 
-Shraddha Khapra 
+None.  
 
-# student 
-Rajesh
+# student
+Rajesh is the student.
